@@ -11,7 +11,7 @@ This repository provides supplementary materials for OpenAI's *"A Practical Guid
 ## 🎧 Audio Summary
 
 - **Audio Overview**:  
-  [Building AI Agents: A Practical Guide.mp3](Building%20AI%20Agents_%20A%20Practical%20Guide.mp3)  
+  [Building AI Agents: A Practical Guide.mp3](https://drive.google.com/file/d/1FEactVFFd7pwVgcGDICp7M2bFSZLqn1v/view?usp=drive_link)  
   A conversational summary of the guide generated using Google’s NotebookLM. Great for learning on the go.
 
 ## 🖼️ Diagram

@@ -23,5 +23,5 @@ Research papers can be dense. Instead of just reading (or asking ChatGPT for a s
 
 ---
 
-*Credit: Diagram by [Lewis Walker](https://www.linkedin.com/in/lewisjwalker/). Audio generated via [NotebookLM](https://notebooklm.google.com).*  
+*Credit: Diagram by [Lewis Walker](https://www.linkedin.com/in/lewiswalkerai/). Audio generated via [NotebookLM](https://notebooklm.google.com).*  
 *Repo maintained by [Sandeep Kolte sandeep.kolte@gmail.com]. Feedback welcome!*
